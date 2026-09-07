@@ -2,7 +2,7 @@
    {
       "rank": 1,
       "name": "Ruihan Li",
-      "score": 194
+      "score": 234
    },
    {
       "rank": 2,
@@ -12,37 +12,37 @@
    {
       "rank": 3,
       "name": "Jianfeng Jiang",
-      "score": 107
+      "score": 109
    },
    {
       "rank": 4,
-      "name": "Tate, Hongliang Tian",
-      "score": 95
+      "name": "Chengjun Chen",
+      "score": 105
    },
    {
       "rank": 5,
-      "name": "Chengjun Chen",
-      "score": 92
+      "name": "Qingsong Chen",
+      "score": 102
    },
    {
       "rank": 6,
-      "name": "Qingsong Chen",
-      "score": 84
+      "name": "Tate, Hongliang Tian",
+      "score": 88
    },
    {
       "rank": 7,
       "name": "zjp",
-      "score": 77
+      "score": 75
    },
    {
       "rank": 8,
-      "name": "asterinas",
+      "name": "le-monde-bleu",
       "score": 74
    },
    {
       "rank": 9,
       "name": "Tao Su",
-      "score": 68
+      "score": 59
    },
    {
       "rank": 10,
@@ -56,28 +56,28 @@
    },
    {
       "rank": 12,
-      "name": "li041",
-      "score": 36
-   },
-   {
-      "rank": 13,
       "name": "Marsman1996",
       "score": 35
    },
    {
-      "rank": 14,
+      "rank": 13,
       "name": "volca",
-      "score": 30
+      "score": 34
+   },
+   {
+      "rank": 14,
+      "name": "li041",
+      "score": 28
    },
    {
       "rank": 15,
-      "name": "WaterWhisperer",
+      "name": "Junyang Zhang",
       "score": 24
    },
    {
       "rank": 16,
-      "name": "Junyang Zhang",
-      "score": 22
+      "name": "WaterWhisperer",
+      "score": 24
    },
    {
       "rank": 17,
@@ -101,13 +101,13 @@
    },
    {
       "rank": 21,
-      "name": "Xinyi Yu",
+      "name": "Duck Ran",
       "score": 15
    },
    {
       "rank": 22,
-      "name": "Duck Ran",
-      "score": 15
+      "name": "Xinyi Yu",
+      "score": 12
    },
    {
       "rank": 23,
@@ -126,73 +126,73 @@
    },
    {
       "rank": 26,
-      "name": "Hsy-Intel",
-      "score": 9
-   },
-   {
-      "rank": 27,
       "name": "\u5218\u666f\u5b87",
       "score": 7
    },
    {
-      "rank": 28,
+      "rank": 27,
       "name": "Junjie Cao",
       "score": 6
    },
    {
-      "rank": 29,
-      "name": "Linermao",
-      "score": 6
-   },
-   {
-      "rank": 30,
+      "rank": 28,
       "name": "harry",
       "score": 6
    },
    {
-      "rank": 31,
+      "rank": 29,
+      "name": "Hsy-Intel",
+      "score": 5
+   },
+   {
+      "rank": 30,
       "name": "Fan Jie",
       "score": 4
    },
    {
-      "rank": 32,
+      "rank": 31,
       "name": "wheatfox",
       "score": 4
    },
    {
-      "rank": 33,
+      "rank": 32,
       "name": "FallingLeavez",
       "score": 4
    },
    {
-      "rank": 34,
+      "rank": 33,
       "name": "TankTechnology",
       "score": 4
    },
    {
-      "rank": 35,
+      "rank": 34,
       "name": "Martin Holovsky",
       "score": 4
    },
    {
-      "rank": 36,
+      "rank": 35,
       "name": "Endlia",
       "score": 4
    },
    {
-      "rank": 37,
+      "rank": 36,
       "name": "wangyue789",
       "score": 4
    },
    {
-      "rank": 38,
+      "rank": 37,
       "name": "Wang Yue",
       "score": 4
    },
    {
-      "rank": 39,
+      "rank": 38,
       "name": "Zhihang Shao",
       "score": 4
+   },
+   {
+      "rank": 39,
+      "name": "aiqubits",
+      "score": 2
    },
    {
       "rank": 40,
@@ -206,32 +206,32 @@
    },
    {
       "rank": 42,
-      "name": "rikosellic",
+      "name": "Linermao",
       "score": 2
    },
    {
       "rank": 43,
-      "name": "Haixin Xu",
+      "name": "rikosellic",
       "score": 2
    },
    {
       "rank": 44,
-      "name": "YanLien",
+      "name": "Haixin Xu",
       "score": 2
    },
    {
       "rank": 45,
-      "name": "Halifuda",
+      "name": "YanLien",
       "score": 2
    },
    {
       "rank": 46,
-      "name": "Philipp Schuster",
+      "name": "Halifuda",
       "score": 2
    },
    {
       "rank": 47,
-      "name": "Shen Bowen",
+      "name": "Philipp Schuster",
       "score": 2
    }
 ]
